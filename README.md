@@ -2,7 +2,7 @@
 
 ## 📖 Overview
 
-![Architecture](images/architecture.png)
+![Architecture](terraform/images/architecture.png)
 
 This project demonstrates how to provision secure AWS infrastructure using **Terraform** following Infrastructure as Code (IaC) best practices.
 
@@ -76,9 +76,9 @@ Outbound:
 
 ---
 
-![Bucket-UI](images/bucket.png)
-![Instance-UI](images/instance.png)
-![IAM-Policy-UI](images/iam-policy.png)
+![Bucket-UI](terraform/images/bucket.png)
+![Instance-UI](terraform/images/instance.png)
+![IAM-Policy-UI](terraform/images/iam-policy.png)
 
 # 🔐 Security Best Practices
 
