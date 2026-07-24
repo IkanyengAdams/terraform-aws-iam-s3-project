@@ -100,7 +100,7 @@ The IAM Policy follows the Principle of Least Privilege by allowing access to on
 
 ---
 
-![Temporary-Credentials](images/temp-cred.png)
+![Temporary-Credentials](terraform/images/temp-cred.png)
 
 ---
 
@@ -157,12 +157,12 @@ aws s3 cp s3://<bucket-name>/hello.txt .
 
 ---
 
-![SSHing-Into-Instance](images/ssh-into-instance.png)
-![Version-Of-AWS-CLI](images/aws-version-cli.png)
-![Temporary-Credentials](images/temp-cred.png)
-![S3-File-Creation](images/file-creation-s3.png)
-![Provisioning-Ifrastructure](images/infra-provision.png)
-![Destroying-Infrastructure](images/destroy-infra.png)
+![SSHing-Into-Instance](terraform/images/ssh-into-instance.png)
+![Version-Of-AWS-CLI](terraform/images/aws-version-cli.png)
+![Temporary-Credentials](terraform/images/temp-cred.png)
+![S3-File-Creation](terraform/images/file-creation-s3.png)
+![Provisioning-Ifrastructure](terraform/images/infra-provision.png)
+![Destroying-Infrastructure](terraform/images/destroy-infra.png)
 
 # 🛠️ Technologies Used
 
