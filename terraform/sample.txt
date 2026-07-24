@@ -1,0 +1,9 @@
+Hello from Terraform!
+
+This file was automatically uploaded to Amazon S3.
+
+Project:
+Terraform + IAM Roles + EC2 + S3
+
+Created by:
+Ikanyeng Adams
